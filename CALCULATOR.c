@@ -42,8 +42,7 @@ int main()
 				printf("Invalid Operator");
 				return 0;
 		}
-		printf("Result = %.2f\n" , result);
-		printf("Abhisek is typing...");
+		printf("Result = %.2f" , result);
 		
 		return 0;
 		
